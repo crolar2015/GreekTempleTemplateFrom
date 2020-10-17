@@ -1,0 +1,55 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Ancestors // Ancestros
+Author: Leonel Romero
+URL: https://poly.google.com/view/0WjhD6Wn01B
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: bambi with bg
+Author: chun WU
+URL: https://poly.google.com/view/eQaEHm5YkIs
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Bamboo Forest
+Author: Laurent MARCUS
+URL: https://poly.google.com/view/8HLJU6tMrfk
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: center island
+Author: Valerie Nyby
+URL: https://poly.google.com/view/8cCe7N7g18y
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: greek temple
+Author: Alex Wasowicz
+URL: https://poly.google.com/view/afaA657WXSH
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Knight chess piece
+Author: Poly by Google
+URL: https://poly.google.com/view/aW5HcCo0KZa
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lion - Photogrammetry
+Author: Azad Balabanian
+URL: https://poly.google.com/view/cxLp_mZ9Zkd
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Waterfall landscape
+Author: Rebecca Schafer
+URL: https://poly.google.com/view/fGkGdbQKskY
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: worm
+Author: Thomas Panhorst
+URL: https://poly.google.com/view/7_-PV5AtsYl
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
